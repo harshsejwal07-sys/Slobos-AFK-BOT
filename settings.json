@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "GBS-SMP.aternos.me",
+    "port": 43541,
     "version": "1.21.1"
   },
   "position": {
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1529200275615776874/hbC4gufDFxUWQr-ONaskmW-GvxTAvA4ucDZ_8HuOSXKbFZJ3xGvQc4S2mIkflwOT9cdm",
     "events": {
       "connect": true,
       "disconnect": true,
